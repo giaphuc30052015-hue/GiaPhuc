@@ -1,13 +1,17 @@
-# 👋 Chào bạn, mình là Gia Phúc!
+<h1>👋 Chào bạn, mình là Gia Phúc!</h1>
 
-### 📊 Thống kê GitHub của mình
-![GitHub Streak](https://demolab.com)
+<h3>📊 Thống kê GitHub của mình</h3>
+<p align="left">
+  <img src="https://demolab.com" alt="GitHub Streak" />
+</p>
 
-### 🛠️ Ngôn ngữ & Công cụ
-![C++](https://shields.io)
-![Python](https://shields.io)
-![VS Code](https://shields.io)
-![Arch Linux](https://shields.io)
-![Linux](https://shields.io)
-![Windows](https://shields.io)
-![Android](https://shields.io)
+<h3>🛠️ Ngôn ngữ & Công cụ</h3>
+<p align="left">
+  <img src="https://shields.io" alt="C++" />
+  <img src="https://shields.io" alt="Python" />
+  <img src="https://shields.io" alt="VS Code" />
+  <img src="https://shields.io" alt="Arch Linux" />
+  <img src="https://shields.io" alt="Linux" />
+  <img src="https://shields.io" alt="Windows" />
+  <img src="https://shields.io" alt="Android" />
+</p>
